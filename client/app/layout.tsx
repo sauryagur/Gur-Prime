@@ -15,8 +15,16 @@ const geistMono = Geist_Mono({
 // Premium production metadata
 export const metadata: Metadata = {
   title: "Saurya Gur | gur-prime-3.5",
-  description: "Interactive AI clone and digital portfolio of Saurya Gur. Explore active systems projects, research vectors, and live development streams.",
-  keywords: ["Saurya Gur", "Openfolie", "Systems Engineer", "AI Safety", "Software Developer", "gur-prime"],
+  description:
+    "Interactive AI clone and digital portfolio of Saurya Gur. Explore active systems projects, research vectors, and live development streams.",
+  keywords: [
+    "Saurya Gur",
+    "Openfolie",
+    "Systems Engineer",
+    "AI Safety",
+    "Software Developer",
+    "gur-prime",
+  ],
   authors: [{ name: "Saurya Gur", url: "https://sauryagur.me" }],
   creator: "Saurya Gur",
   openGraph: {
